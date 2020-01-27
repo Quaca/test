@@ -1,9 +1,3 @@
-### ZADACA 1 MU
-### RADILI:
-###     Ademovic Sakib
-###     Alilovic Rijad
-###     Dzindo Nedzad
-
 
 import numpy as np
 import pandas as pd
